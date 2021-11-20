@@ -1,6 +1,6 @@
 [![Header](https://media.discordapp.net/attachments/910898401070153729/911639281255211088/banner_white.png?width=1203&height=301)](https://www.youtube.com/c/BerryPGz)
 
-## I'm junior python, java, web developer, interesed in frontend, learning C++
+## I'm junior java, web developer, interesed in Minecraft, learning C++
 
 ### languages
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
