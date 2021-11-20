@@ -11,8 +11,8 @@
 [![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord)](https://discord.gg/EfpvK6wpS9)
 
 ### My stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatsAreGood1337&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerryPGz&layout=compact)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CatsAreGood1337&show_icons=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=BerryPGz&show_icons=true&theme=dracula)
 
-![ProfileViews](https://komarev.com/ghpvc/?username=your-github-CatsAreGood1337)
+![ProfileViews](https://komarev.com/ghpvc/?username=your-github-BerryPGz)
