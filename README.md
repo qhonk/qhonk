@@ -1,16 +1,14 @@
-[![Header](https://github.com/CatsAreGood1337/CatsAreGood1337/blob/main/assets/Header.png)](https://www.youtube.com/channel/UCvDjvzN-BQ9XvHh8reSYo4w)
+[![Header](https://media.discordapp.net/attachments/910898401070153729/911639281255211088/banner_white.png?width=1203&height=301)](https://www.youtube.com/c/BerryPGz)
 
 ## I'm junior python, java, web developer, interesed in frontend, learning C++
 
-### I like languages
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+### languages
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 
 ### Follow me
 
-[![Youtube](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube)](https://www.youtube.com/channel/UCvDjvzN-BQ9XvHh8reSYo4w)
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram)](https://t.me/CatsAreGood)
-[![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord)](https://discord.gg/W8aESyTNvn)
+[![Youtube](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube)](https://www.youtube.com/c/BerryPGz)
+[![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord)](https://discord.gg/EfpvK6wpS9)
 
 ### My stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatsAreGood1337&layout=compact)
