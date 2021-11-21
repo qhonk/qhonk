@@ -1,4 +1,6 @@
-[![Header](https://count.getloli.com/get/@starcraft66?theme=gelbooru")](https://www.youtube.com/c/BerryPGz)
+<p align="center">
+  <img src="https://count.getloli.com/get/@BerryPGz?theme=gelbooru" />
+</p>
 
 ## I'm junior java, web developer, interesed in Minecraft, learning C++
 
