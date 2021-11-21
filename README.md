@@ -2,7 +2,7 @@
   <img src="https://count.getloli.com/get/@BerryPGz?theme=gelbooru" />
 </p>
 
-## I'm junior java, web developer, interesed in Minecraft, learning C++
+## I'm Berry, and I do shit in Minecraft ._.
 
 ### languages
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
