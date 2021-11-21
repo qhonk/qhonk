@@ -1,4 +1,4 @@
-[![Header](https://media.discordapp.net/attachments/910898401070153729/911639281255211088/banner_white.png?width=1203&height=301)](https://www.youtube.com/c/BerryPGz)
+[![Header](https://count.getloli.com/get/@starcraft66?theme=gelbooru")](https://www.youtube.com/c/BerryPGz)
 
 ## I'm junior java, web developer, interesed in Minecraft, learning C++
 
