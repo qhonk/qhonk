@@ -15,6 +15,6 @@
 ### My stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerryPGz&layout=compact)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BerryPGz&show_icons=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=BerryPGz&show_icons=true&theme=green)
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=your-github-BerryPGz)
