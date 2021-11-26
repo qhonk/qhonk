@@ -9,16 +9,15 @@ Im a java developer
 #### - My ign : BE65 - B3R1
 #### - my age : 14
 #### - about me : i am a nub :p
-![Profile Views](https://komarev.com/ghpvc/?username=BerryPGz)
 
-
-<img src="https://discord.c99.nl/widget/theme-3/883534831940694016.png"></img>
+<img src="https://discord.c99.nl/widget/theme-4/650111928487903255.png"></img>
 
 #
 
 
 
-[![Stats bby](https://github-readme-stats.vercel.app/api?username=master7720&theme=dark)](https://github.com/anuraghazra/github-readme-stats)             [![oo oo aa aa](https://github-readme-stats.vercel.app/api/top-langs/?username=master7720&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats bby](https://github-readme-stats.vercel.app/api?username=berrypgz&theme=dark)](https://github.com/berrypgz/github-readme-stats)             
+[![oo oo aa aa](https://github-readme-stats.vercel.app/api/top-langs/?username=berrypgz&theme=dark)](https://github.com/berrypgz/github-readme-stats)
 
 ### 🚀 My Projects
 #### - PGz Client (Private client)
