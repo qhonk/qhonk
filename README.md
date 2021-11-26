@@ -2,14 +2,14 @@
   <img src="https://count.getloli.com/get/@BerryPGz?theme=gelbooru" />
 </p>
 
-## Hello 👋, Im master7720
+## 👋 Hello, Im Berry
 
 Im a java developer
 
-#### - My ign : PreparedSystem32
+#### - My ign : BE65 - B3R1
 #### - my age : 14
-#### - about me : i am a 14 year old developer thats wants to learn more about java.batch,html and VBS
-![Profile Views](https://komarev.com/ghpvc/?username=master7720)
+#### - about me : i am a nub :p
+![Profile Views](https://komarev.com/ghpvc/?username=BerryPGz)
 
 
 <img src="https://discord.c99.nl/widget/theme-3/883534831940694016.png"></img>
