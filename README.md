@@ -7,7 +7,6 @@
 Im a java developer
 
 #### - My ign : BE65 - B3R1
-#### - my age : 14
 #### - about me : i am a nub :p
 
 #
