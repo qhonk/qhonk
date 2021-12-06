@@ -10,8 +10,6 @@ Im a java developer
 #### - my age : 14
 #### - about me : i am a nub :p
 
-<img src="https://discord.c99.nl/widget/theme-4/650111928487903255.png"></img>
-
 #
 
 
