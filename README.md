@@ -2,12 +2,9 @@
   <img src="https://count.getloli.com/get/@BerryPGz?theme=gelbooru" />
 </p>
 
-## 👋 Hello, Im Berry
+## 👋 Hello, Im Berry - BE65 - B3R1
 
-Im a java developer
-
-#### - My ign : BE65 - B3R1
-#### - about me : i am a nub :p
+Im a java developer or a nub :D
 
 #
 
