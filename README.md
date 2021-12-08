@@ -8,10 +8,7 @@ Im a java developer or a nub :D
 
 #
 
-
-
 [![Stats bby](https://github-readme-stats.vercel.app/api?username=berrypgz&theme=dark)](https://github.com/berrypgz/github-readme-stats)             
-[![oo oo aa aa](https://github-readme-stats.vercel.app/api/top-langs/?username=berrypgz&theme=dark)](https://github.com/berrypgz/github-readme-stats)
 
 ### 🚀 My Projects
 #### - PGz Client (Private client)
