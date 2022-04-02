@@ -4,7 +4,7 @@
 
 ## 👋 Hello, Im Berry
 
-Im a java developer or a nub :D
+Im a java developer, texture pack maker or a nub :D
 
 [![Stats bby](https://github-readme-stats.vercel.app/api?username=berrypgz&theme=dark)](https://github.com/berrypgz/github-readme-stats)             
 
