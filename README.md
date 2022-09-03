@@ -6,7 +6,8 @@
 
 Im a java developer, texture pack maker or a nub :D
 
-[![Stats bby](https://github-readme-stats.vercel.app/api?username=berrypgz&theme=dark)](https://github.com/berrypgz/github-readme-stats)             
+[![Stats bby](https://github-readme-stats.vercel.app/api?username=berrypgz&theme=dark)](https://github.com/berrypgz/github-readme-stats) 
+[IMG]https://gen.plancke.io/exp/qhonk.png[/IMG]            
 
 ### 🚀 My Projects
 - Berry L+ : Basicly a Raven b3 skid
